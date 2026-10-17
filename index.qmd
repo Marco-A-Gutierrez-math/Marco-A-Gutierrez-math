@@ -8,7 +8,7 @@ title: "Home"
 Mathematics · Differentiala Geometry · Spectral Geometry
 :::
 
-Welcome to my academic website. I am a mathematician interested in geometry, analysis, and the interaction between geometric structures and differential operators.
+Welcome to my academic websitee. I am a mathematician interested in geometry, analysis, and the interaction between geometric structures and differential operators.
 
 ## About me
 
