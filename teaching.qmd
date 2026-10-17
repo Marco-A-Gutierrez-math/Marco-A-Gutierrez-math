@@ -1,0 +1,11 @@
+---
+title: "Teaching"
+---
+
+This page will collect teaching materials, seminar notes, problem sets, and other mathematical resources.
+
+## Materials
+
+Materials will be added here as they become available.
+
+When sharing course materials, please indicate the course, date, prerequisites, and whether the file is a draft or a final version.

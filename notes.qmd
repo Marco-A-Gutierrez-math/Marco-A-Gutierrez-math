@@ -1,0 +1,32 @@
+---
+title: "Mathematical Notes"
+---
+
+This page is intended for mathematical notes, expository articles, and resources developed while studying and teaching mathematics.
+
+## Topics
+
+- Differential geometry
+- Spin geometry and Dirac operators
+- Differential topology
+- Representation theory
+- Functional analysis
+
+## Notes and documents
+
+Add notes as separate `.qmd` files and link them here. Quarto supports LaTeX-style mathematics, for example,
+
+$$
+D : \Gamma(S) \longrightarrow \Gamma(S),
+$$
+
+where \(D\) denotes a Dirac operator acting on sections of a spinor bundle \(S\).
+
+You can also write inline mathematics, such as \(\mathrm{Spin}(4) \cong \mathrm{SU}(2)\times\mathrm{SU}(2)\).
+
+### How to add a note
+
+1. Create a new file, for example `dirac-operator.qmd`.
+2. Add a title and write your text in Markdown with LaTeX mathematics.
+3. Render the site with `quarto render`.
+4. Add a link to the note on this page.

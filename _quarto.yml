@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Marco Antonio Gutiérrez Garduño"
+  description: "Academic website for mathematics, research, and mathematical notes."
+  site-url: "https://YOUR-GITHUB-USERNAME.github.io"
+  repo-url: "https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME.github.io"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Mathematical Notes"
+        href: notes.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: github
+        href: "https://github.com/YOUR-GITHUB-USERNAME"
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Marco Antonio Gutiérrez Garduño"
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

@@ -1,0 +1,37 @@
+---
+title: "Home"
+---
+
+# Marco Antonio Gutiérrez Garduño
+
+::: {.lead}
+Mathematics · Differential Geometry · Spectral Geometry
+:::
+
+Welcome to my academic website. I am a mathematician interested in geometry, analysis, and the interaction between geometric structures and differential operators.
+
+## About me
+
+I am currently pursuing a master's degree in Mathematical Sciences at the Institute of Mathematics, National Autonomous University of Mexico (UNAM), in Cuernavaca.
+
+My research focuses on the Dirac operator and spectral asymmetry on spherical three-manifolds. More broadly, I am interested in differential geometry, spin geometry, spectral theory, topology, and representation theory.
+
+## Research interests
+
+- Spin geometry and Dirac operators
+- Spectral geometry and spectral asymmetry
+- Differential geometry and topology
+- Representation theory and global analysis
+
+## Explore this website
+
+- **[Research](research.qmd):** an overview of my research interests and projects.
+- **[Mathematical Notes](notes.qmd):** notes, expository writing, and mathematical resources.
+- **[Teaching](teaching.qmd):** teaching materials and seminar resources.
+- **[CV](cv.qmd):** a short academic profile and, eventually, my curriculum vitae in PDF.
+
+## Contact
+
+For academic inquiries, please contact me at **YOUR-ACADEMIC-EMAIL**.
+
+*Please replace the email placeholder and review the biographical text before publishing.*

@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "This page will collect teaching materials, seminar notes, problem sets, and other mathematical resources."
+  },
+  {
+    "objectID": "teaching.html#materials",
+    "href": "teaching.html#materials",
+    "title": "Teaching",
+    "section": "Materials",
+    "text": "Materials\nMaterials will be added here as they become available.\nWhen sharing course materials, please indicate the course, date, prerequisites, and whether the file is a draft or a final version."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Mathematical Notes",
+    "section": "",
+    "text": "This page is intended for mathematical notes, expository articles, and resources developed while studying and teaching mathematics."
+  },
+  {
+    "objectID": "notes.html#topics",
+    "href": "notes.html#topics",
+    "title": "Mathematical Notes",
+    "section": "Topics",
+    "text": "Topics\n\nDifferential geometry\nSpin geometry and Dirac operators\nDifferential topology\nRepresentation theory\nFunctional analysis"
+  },
+  {
+    "objectID": "notes.html#notes-and-documents",
+    "href": "notes.html#notes-and-documents",
+    "title": "Mathematical Notes",
+    "section": "Notes and documents",
+    "text": "Notes and documents\nAdd notes as separate .qmd files and link them here. Quarto supports LaTeX-style mathematics, for example,\n\\[\nD : \\Gamma(S) \\longrightarrow \\Gamma(S),\n\\]\nwhere (D) denotes a Dirac operator acting on sections of a spinor bundle (S).\nYou can also write inline mathematics, such as ((4) (2)(2)).\n\nHow to add a note\n\nCreate a new file, for example dirac-operator.qmd.\nAdd a title and write your text in Markdown with LaTeX mathematics.\nRender the site with quarto render.\nAdd a link to the note on this page."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Marco Antonio Gutiérrez Garduño\nMaster’s student in Mathematical Sciences, Institute of Mathematics, National Autonomous University of Mexico (UNAM), Cuernavaca.\n\n\nDifferential geometry, spin geometry, spectral geometry, Dirac operators, and representation theory.\n\n\n\n\nMaster’s in Mathematical Sciences — National Autonomous University of Mexico (UNAM), Institute of Mathematics, Cuernavaca. In progress.\nBachelor’s studies in Physics and Mathematics — Higher School of Physics and Mathematics (ESFM), National Polytechnic Institute (IPN). Credits completed; use the official degree status and title in your final CV.\n\n\n\n\nAdd verified talks, posters, awards, teaching, and academic service here."
+  },
+  {
+    "objectID": "cv.html#academic-profile",
+    "href": "cv.html#academic-profile",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Marco Antonio Gutiérrez Garduño\nMaster’s student in Mathematical Sciences, Institute of Mathematics, National Autonomous University of Mexico (UNAM), Cuernavaca.\n\n\nDifferential geometry, spin geometry, spectral geometry, Dirac operators, and representation theory.\n\n\n\n\nMaster’s in Mathematical Sciences — National Autonomous University of Mexico (UNAM), Institute of Mathematics, Cuernavaca. In progress.\nBachelor’s studies in Physics and Mathematics — Higher School of Physics and Mathematics (ESFM), National Polytechnic Institute (IPN). Credits completed; use the official degree status and title in your final CV.\n\n\n\n\nAdd verified talks, posters, awards, teaching, and academic service here."
+  },
+  {
+    "objectID": "cv.html#download-my-cv",
+    "href": "cv.html#download-my-cv",
+    "title": "Curriculum Vitae",
+    "section": "Download my CV",
+    "text": "Download my CV\nA PDF version of my CV will be linked here once you add it to the website folder, for example as files/cv.pdf.\nBefore publishing, verify all dates, official degree titles, and statuses. Do not publish personal contact details you do not want public."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Mathematics · Differential Geometry · Spectral Geometry\n\nWelcome to my academic website. I am a mathematician interested in geometry, analysis, and the interaction between geometric structures and differential operators.\n\n\nI am currently pursuing a master’s degree in Mathematical Sciences at the Institute of Mathematics, National Autonomous University of Mexico (UNAM), in Cuernavaca.\nMy research focuses on the Dirac operator and spectral asymmetry on spherical three-manifolds. More broadly, I am interested in differential geometry, spin geometry, spectral theory, topology, and representation theory.\n\n\n\n\nSpin geometry and Dirac operators\nSpectral geometry and spectral asymmetry\nDifferential geometry and topology\nRepresentation theory and global analysis\n\n\n\n\n\nResearch: an overview of my research interests and projects.\nMathematical Notes: notes, expository writing, and mathematical resources.\nTeaching: teaching materials and seminar resources.\nCV: a short academic profile and, eventually, my curriculum vitae in PDF.\n\n\n\n\nFor academic inquiries, please contact me at YOUR-ACADEMIC-EMAIL.\nPlease replace the email placeholder and review the biographical text before publishing."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "I am currently pursuing a master’s degree in Mathematical Sciences at the Institute of Mathematics, National Autonomous University of Mexico (UNAM), in Cuernavaca.\nMy research focuses on the Dirac operator and spectral asymmetry on spherical three-manifolds. More broadly, I am interested in differential geometry, spin geometry, spectral theory, topology, and representation theory."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Home",
+    "section": "",
+    "text": "Spin geometry and Dirac operators\nSpectral geometry and spectral asymmetry\nDifferential geometry and topology\nRepresentation theory and global analysis"
+  },
+  {
+    "objectID": "index.html#explore-this-website",
+    "href": "index.html#explore-this-website",
+    "title": "Home",
+    "section": "",
+    "text": "Research: an overview of my research interests and projects.\nMathematical Notes: notes, expository writing, and mathematical resources.\nTeaching: teaching materials and seminar resources.\nCV: a short academic profile and, eventually, my curriculum vitae in PDF."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "",
+    "text": "For academic inquiries, please contact me at YOUR-ACADEMIC-EMAIL.\nPlease replace the email placeholder and review the biographical text before publishing."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests lie at the intersection of differential geometry, spectral theory, and global analysis."
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "Research",
+    "section": "Current research",
+    "text": "Current research\n\nSpectral asymmetry of the Dirac operator on spherical 3-manifolds\nMy master’s research concerns the spectral asymmetry of the Dirac operator on spherical three-manifolds. The project studies Dirac spectra on quotients of the three-sphere by finite groups acting freely and explores how group actions and spin structures influence spectral data.\nTopics connected with this work include:\n\nDirac operators and spinor bundles\nSpin structures on spherical space forms\nFinite group actions and representation theory\nEta invariants and spectral asymmetry"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "Research interests",
+    "text": "Research interests\nI am also interested in differential topology, Clifford algebras, representation theory, and geometric constructions of Dirac-type operators."
+  },
+  {
+    "objectID": "research.html#publications-and-preprints",
+    "href": "research.html#publications-and-preprints",
+    "title": "Research",
+    "section": "Publications and preprints",
+    "text": "Publications and preprints\nThis section will list publications, preprints, and manuscripts when their bibliographic information and status are ready to be shared.\nNo publication is listed here yet. Add an item only after checking the title, authors, link, and publication status."
+  }
+]

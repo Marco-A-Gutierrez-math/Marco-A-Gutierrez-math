@@ -1,0 +1,28 @@
+---
+title: "Research"
+---
+
+My research interests lie at the intersection of differential geometry, spectral theory, and global analysis.
+
+## Current research
+
+### Spectral asymmetry of the Dirac operator on spherical 3-manifolds
+
+My master's research concerns the spectral asymmetry of the Dirac operator on spherical three-manifolds. The project studies Dirac spectra on quotients of the three-sphere by finite groups acting freely and explores how group actions and spin structures influence spectral data.
+
+Topics connected with this work include:
+
+- Dirac operators and spinor bundles
+- Spin structures on spherical space forms
+- Finite group actions and representation theory
+- Eta invariants and spectral asymmetry
+
+## Research interests
+
+I am also interested in differential topology, Clifford algebras, representation theory, and geometric constructions of Dirac-type operators.
+
+## Publications and preprints
+
+This section will list publications, preprints, and manuscripts when their bibliographic information and status are ready to be shared.
+
+*No publication is listed here yet. Add an item only after checking the title, authors, link, and publication status.*

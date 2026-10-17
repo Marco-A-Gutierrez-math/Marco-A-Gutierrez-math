@@ -1,0 +1,28 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Academic profile
+
+**Marco Antonio Gutiérrez Garduño**
+
+Master's student in Mathematical Sciences, Institute of Mathematics, National Autonomous University of Mexico (UNAM), Cuernavaca.
+
+### Research interests
+
+Differential geometry, spin geometry, spectral geometry, Dirac operators, and representation theory.
+
+### Education
+
+- **Master's in Mathematical Sciences** — National Autonomous University of Mexico (UNAM), Institute of Mathematics, Cuernavaca. *In progress.*
+- **Bachelor's studies in Physics and Mathematics** — Higher School of Physics and Mathematics (ESFM), National Polytechnic Institute (IPN). *Credits completed; use the official degree status and title in your final CV.*
+
+### Academic activities
+
+Add verified talks, posters, awards, teaching, and academic service here.
+
+## Download my CV
+
+A PDF version of my CV will be linked here once you add it to the website folder, for example as `files/cv.pdf`.
+
+*Before publishing, verify all dates, official degree titles, and statuses. Do not publish personal contact details you do not want public.*
