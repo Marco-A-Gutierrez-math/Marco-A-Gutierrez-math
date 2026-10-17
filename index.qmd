@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-# Marco Antonio Gutiérrez Garduño
+# Marco Antonio Gutiérrez Garduño (Aguila)
 
 ::: {.lead}
 Mathematics · Differential Geometry · Spectral Geometry
