@@ -18,7 +18,7 @@ My research focuses on the Dirac operator and spectral asymmetry on spherical th
 
 ## Research interests
 
-- Spin geometry and Dirac operators
+- Spin geometry and Dirac operators y paginas en github
 - Spectral geometry and spectral asymmetry
 - Differential geometry and topology
 - Representation theory and global analysis
