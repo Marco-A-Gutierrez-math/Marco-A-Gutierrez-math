@@ -5,7 +5,7 @@ title: "Home"
 # Marco Antonio Gutiérrez Garduño (Aguila)
 
 ::: {.lead}
-Mathematics · Differentiala Geometriaaaaaaa · Spectral Geometry
+Mathematics · Differentiala Geometriaaaaaaa · Spectral Geometry proband
 :::
 
 Welcome to my academic websitee. I am a mathematician interested in geometry, analysis, and the interaction between geometric structures and differential operators.
